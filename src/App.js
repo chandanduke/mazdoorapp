@@ -4,12 +4,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Welcome to Mazdoor App
-        Name   Pending Amount 
-
-        Manoj      500
-        Ramesh     300
-        Majni babu 200 
+        Welcome to Mazdoor App<br/>
+        Name ----->Pending Amount <br/>
+        Manoj ----> 500<br/>
+        Ramesh ---->     300<br/>
+        Majni babu -----> 200 <br/>
       </header>
     </div>
   );

@@ -8,7 +8,10 @@ function App() {
         Name ----->Pending Amount <br/>
         Manoj ----> 500<br/>
         Ramesh ---->     300<br/>
-        Majni babu -----> 200 <br/>
+        Mohan -----> 200 <br/>
+        ######------date 15-01-2021------######<br/>
+        Mohan-->200<br/>
+        Ramesh-->200
       </header>
     </div>
   );

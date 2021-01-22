@@ -1,9 +1,12 @@
 import './App.css';
+import './Cardd.js'
 
 function App() {
   return (
+    
     <div className="App">
       <header className="App-header">
+      <Cardd/>
         Welcome to Mazdoor App<br/>
         Name ----->Pending Amount <br/>
         Manoj ----> 500<br/>

@@ -1,12 +1,10 @@
 import './App.css';
-import './Cardd.js'
 
 function App() {
   return (
     
     <div className="App">
       <header className="App-header">
-      <Cardd/>
         Welcome to Mazdoor App<br/>
         Name ----->Pending Amount <br/>
         Manoj ----> 500<br/>
@@ -40,6 +38,12 @@ function App() {
         ######------date 21-01-2021------######<br/>
         Mohan-->200<br/>
         Bongha-->200<br/>
+        Munna Sing-->200<br/>
+        Manoj-->500<br/>
+        Apreliya-->500<br/>
+        ######------date 22-01-2021------######<br/>
+        Mohan-->200<br/>
+        Ramesh-->200<br/>
         Munna Sing-->200<br/>
         Manoj-->500<br/>
         Apreliya-->500<br/>

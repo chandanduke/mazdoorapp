@@ -37,7 +37,7 @@ function App() {
         Apreliya-->500<br/>
         ######------date 21-01-2021------######<br/>
         Mohan-->200<br/>
-        Bongha-->200<br/>
+        Bongha-->0<br/>(paid)
         Munna Sing-->200<br/>
         Manoj-->500<br/>
         Apreliya-->500<br/>
@@ -45,6 +45,16 @@ function App() {
         Mohan-->200<br/>
         Ramesh-->200<br/>
         Munna Sing-->200<br/>
+        Manoj-->500<br/>
+        Apreliya-->500<br/>
+        ######------date 23-01-2021------######<br/>
+        Mohan-->200<br/>
+        Ramesh-->200<br/>
+        Manoj-->500<br/>
+        Apreliya-->500<br/>
+        ######------date 24-01-2021------######<br/>
+        Mohan-->200<br/>
+        Ramesh-->200<br/>
         Manoj-->500<br/>
         Apreliya-->500<br/>
       </header>

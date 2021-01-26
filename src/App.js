@@ -8,7 +8,7 @@ function App() {
         Welcome to Mazdoor App<br/>
         Name ----->Pending Amount <br/>
         Manoj ----> 500<br/>
-        Ramesh ----> -1000 on 20th jan<br/>
+        Ramesh ----> -1000 on 20th jan -500 on 26th jan<br/>
         Mohan ----> -1200 on 21th jan<br/>
         ######------date 15-01-2021------######<br/>
         Mohan-->200<br/>

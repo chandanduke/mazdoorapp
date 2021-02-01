@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         Welcome to Mazdoor App<br/>
         Name ----->Pending Amount <br/>
-        Ramesh ----> -1000 on 20th jan -500 on 26th jan<br/>
+        Ramesh ----> -1000 on 20th jan -500 on 26th jan 1500 on 31th jan<br/>
         Mohan ----> -1200 on 21th jan -1500 paid on 30th jan<br/>
         Kartik -5000 paid on 30th jan<br/>
         ######------date 15-01-2021------######<br/>
@@ -80,6 +80,13 @@ function App() {
         Apreliya-->500<br/>
         Ramesh-->200<br/>
         ######------date 30-01-2021------######<br/>
+        Mohan-->200<br/>
+        Apreliya-->500<br/>
+        Ramesh-->200<br/>
+        ######------date 31-01-2021------######<br/>
+        Apreliya-->500<br/>
+        Ramesh-->200<br/>
+        ######------date 01-02-2021------######<br/>
         Mohan-->200<br/>
         Apreliya-->500<br/>
         Ramesh-->200<br/>

@@ -94,15 +94,19 @@ function App() {
         Apreliya-->500<br/>
         Ramesh-->200<br/>
         ######------date 03-02-2021------######<br/>
-        Apreliya-->500<br/>
+        Apreliya-->500 centring <br/>
         Ramesh-->200<br/>
         ######------date 04-02-2021------######<br/>
         Apreliya-->500 centring<br/>
         Ramesh-->200<br/>
         ######------date 05-02-2021------######<br/>
         Apreliya-->500 centring<br/>
-        Ramesh-->200centring <br/>
-        Mohan-->200centring <br/>
+        Ramesh-->200c <br/>
+        Mohan-->200 <br/>
+        ######------date 05-02-2021------######<br/>
+        Apreliya-->500 <br/>
+        Ramesh-->200c <br/>
+        Mohan-->200 <br/>
       </header>
     </div>
   );

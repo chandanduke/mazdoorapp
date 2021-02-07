@@ -103,8 +103,13 @@ function App() {
         Apreliya-->500 centring<br/>
         Ramesh-->200c <br/>
         Mohan-->200 <br/>
-        ######------date 05-02-2021------######<br/>
+        ######------date 06-02-2021------######<br/>
         Apreliya-->500 <br/>
+        Ramesh-->200c <br/>
+        Mohan-->200 <br/>
+        ######------date 07-02-2021------######<br/>
+        Apreliya-->500 <br/>
+        Manoj-->500 <br/>
         Ramesh-->200c <br/>
         Mohan-->200 <br/>
       </header>

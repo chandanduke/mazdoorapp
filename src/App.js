@@ -8,8 +8,8 @@ function App() {
         Welcome to Mazdoor App<br/>
         Name ----->Pending Amount <br/>
         Ramesh ----> -1000 on 20th jan -500 on 26th jan 1500 on 31th jan 1000 on 9th feb<br/>
-        Mohan ----> -1200 on 21th jan -1500 paid on 30th jan 1000 on 9th feb<br/>
-        Kartik -5000 paid on 30th jan<br/>
+        Mohan ----> -1200 on 21th jan -1500 paid on 30th jan 1000 on 9th feb 500 on 10 feb<br/>
+        Kartik -5000 paid on 30th jan 4500 0n 10 feb<br/>
         ######------date 15-01-2021------######<br/>
         Mohan-->200<br/>
         Ramesh-->200<br/>
@@ -119,6 +119,11 @@ function App() {
         Ramesh-->200c <br/>
         Mohan-->200 <br/>
         ######------date 09-02-2021------######<br/>
+        Apreliya-->500 <br/>
+        Manoj-->500 <br/>
+        Ramesh-->200c <br/>
+        Mohan-->200 <br/>
+        ######------date 10-02-2021------######<br/>
         Apreliya-->500 <br/>
         Manoj-->500 <br/>
         Ramesh-->200c <br/>
